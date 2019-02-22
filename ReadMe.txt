@@ -1,0 +1,1 @@
+These are some examples for learning Python
