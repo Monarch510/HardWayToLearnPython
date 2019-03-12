@@ -5,10 +5,10 @@ backslash_cat = "i'm \\ a \\ cat"
 fat_cat = '''
 i'll do a list:
 \t* cat food
-\t* fishies
+\t* fish
 \t* catnip\n\t* grass
 '''
-new_fat_cat = "i'll do a list:\n\t* cat food\n\t* fishies\n\t* catnip\n\t* grass"
+new_fat_cat = "i'll do a list:\n\t* cat food\n\t* fish\n\t* catnip\n\t* grass"
 
 print(tabby_cat)
 print(persian_cat)
